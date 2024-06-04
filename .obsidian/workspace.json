@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d1a909b01f2d4ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ad3f19c904add7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d79efeaa6564155",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "la25-abiturerlass.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1d26ce03e7fe5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "536132e39faa1ebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28db5d6668c603c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "539ed37d984c213a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "579dbdbce34f7086",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72063dc5edd0f85e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c2efde553386f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e861b3af388f66d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "la25-abiturerlass.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40cb6feacc76792d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "la25-abiturerlass.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9097def25c1fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1942aec7442d7700",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "la25-abiturerlass.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "2d79efeaa6564155",
+  "lastOpenFiles": [
+    "Klausurplan-Q2.pdf",
+    "Biologie/H2/💲Inhalt.md",
+    "Englisch/H2/Cultural Encounters/17074726185537770298877790352976.jpg",
+    "Englisch/H2/Cultural Encounters",
+    "Englisch/H2/Cultural Encounters/17074725868333838666129593176860.jpg",
+    "Englisch/H2/British Empire/Bubonic plague 2.md",
+    "Englisch/H2/British Empire/Bubonic plague.md",
+    "Englisch/H2/British Empire/17090221987657742736936502604016.jpg",
+    "Englisch/H2/British Empire",
+    "Biologie/H1/01-Das-Lac-Operon.pdf",
+    "Deutsch/H2/Rhetorik/Tafel-08-05-24.pdf",
+    "Deutsch/H2/Heimsuchung",
+    "Deutsch/H2/Rhetorik/IMG-6455.jpeg",
+    "Deutsch/H2/Rhetorik/IMG-6457.jpeg",
+    "Deutsch/H2/Rhetorik/IMG-6456.jpeg",
+    "Deutsch/H2/Rhetorik/Tafel-20-03-24.pdf",
+    "Deutsch/H2/Woyzeck/Tafel-14-03-24.pdf",
+    "Deutsch/H2/Woyzeck/Tafel-21-02-24.pdf",
+    "Deutsch/H2/Woyzeck/Tafel-08-02-24.pdf",
+    "Deutsch/H2/Woyzeck/Tafel-07-02-24.pdf",
+    "Deutsch/H2/Rhetorik/IMG-6389.jpeg",
+    "Deutsch/H2/Rhetorik/IMG-6391.jpeg",
+    "Biologie/H2/Klausur 2.canvas",
+    "Biologie/H2/Stoffwechsel/Zellatmung.md",
+    "Biologie/H2/Unbenannt.md",
+    "[la25-abiturerlass.pdf.md",
+    "Pasted image 20240402135533.png",
+    "Pasted image 20240502174756.png",
+    "[einfluss l.md",
+    "Biologie/Fotosynthese Lernzettel.md",
+    "Deutsch/H2/Aufträge/Ein Schritt in die Zukunft.md",
+    "Deutsch/H2/Aufträge/Konzeptpapier.md",
+    "Deutsch/H2/Aufträge/Rede.md",
+    "Deutsch/Aufträge H2.md",
+    "Informatik/Aufträge H2/EVA - SQL.md",
+    "Informatik/Aufträge H2/NEXT.JS.md",
+    "Informatik/Aufträge H2/SQL Lernzettel.md",
+    "PoWi/Spionage.md",
+    "Geschichte/Präsidialkabinette.md",
+    "Welcome.md",
+    "Religion/Unbenannt.md",
+    "create a link.md"
+  ]
+}
