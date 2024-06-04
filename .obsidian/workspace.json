@@ -11,9 +11,11 @@
             "id": "2d79efeaa6564155",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "la25-abiturerlass.pdf"
+                "file": "Biologie/H2/💲Inhalt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la25-abiturerlass.pdf",
+                "file": "Biologie/H2/💲Inhalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la25-abiturerlass.pdf",
+                "file": "Biologie/H2/💲Inhalt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la25-abiturerlass.pdf"
+                "file": "Biologie/H2/💲Inhalt.md"
               }
             }
           }
@@ -146,6 +148,7 @@
   },
   "active": "2d79efeaa6564155",
   "lastOpenFiles": [
+    "la25-abiturerlass.pdf",
     "Klausurplan-Q2.pdf",
     "Biologie/H2/💲Inhalt.md",
     "Englisch/H2/Cultural Encounters/17074726185537770298877790352976.jpg",
@@ -165,7 +168,6 @@
     "Deutsch/H2/Woyzeck/Tafel-14-03-24.pdf",
     "Deutsch/H2/Woyzeck/Tafel-21-02-24.pdf",
     "Deutsch/H2/Woyzeck/Tafel-08-02-24.pdf",
-    "Deutsch/H2/Woyzeck/Tafel-07-02-24.pdf",
     "Deutsch/H2/Rhetorik/IMG-6389.jpeg",
     "Deutsch/H2/Rhetorik/IMG-6391.jpeg",
     "Biologie/H2/Klausur 2.canvas",
