@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ad3f19c904add7c",
+        "id": "27b482687b8d4789",
         "type": "tabs",
         "children": [
           {
-            "id": "2d79efeaa6564155",
+            "id": "75c9c08786baff29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biologie/H2/💲Inhalt.md",
-                "mode": "source",
-                "source": false
+                "file": "Sport/H1/ℹ️Historie.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/H2/💲Inhalt.md",
+                "file": "Sport/H1/ℹ️Historie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologie/H2/💲Inhalt.md",
+                "file": "Sport/H1/ℹ️Historie.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologie/H2/💲Inhalt.md"
+                "file": "Sport/H1/ℹ️Historie.pdf"
               }
             }
           }
@@ -146,49 +144,53 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "2d79efeaa6564155",
+  "active": "75c9c08786baff29",
   "lastOpenFiles": [
-    "la25-abiturerlass.pdf",
-    "Klausurplan-Q2.pdf",
-    "Biologie/H2/💲Inhalt.md",
-    "Englisch/H2/Cultural Encounters/17074726185537770298877790352976.jpg",
-    "Englisch/H2/Cultural Encounters",
-    "Englisch/H2/Cultural Encounters/17074725868333838666129593176860.jpg",
+    "Sport/🏈Inhalt.md",
+    "Sport/H1/ℹ️Historie.pdf",
+    "Sport/H1",
+    "Sport/Neuer Ordner",
+    "Religion/⛪Inhalt.md",
+    "Sport/H2/IMG-0420.png",
+    "Sport/H2/IMG-0419.png",
+    "Religion/H2/Die Frage nach Gott.md",
+    "Politik & Wirtschaft/H2/📝Aufträge/Spionage.md",
+    "Religion/H1/ℹ️Historie.pdf",
+    "Politik & Wirtschaft/H2/📝Aufträge",
+    "Politik & Wirtschaft/H2/EU/Wissel-Leonie-Sara-Powi-70--2.jpg",
+    "Politik & Wirtschaft/H1/ℹ️Historie.pdf",
+    "Politik & Wirtschaft/H2/EU/Kleberger-Finn-Henrik-PoWi-Handout.pdf",
+    "Politik & Wirtschaft/H2/EU/Garip-Frida-Lia-Lucia-IMG-1428.jpeg",
+    "Politik & Wirtschaft/H2/EU/Brunetti-Fabrizio-927FC72D-C964-43F9-8543-1A9A0EDEDB78.jpeg",
+    "Politik & Wirtschaft/H2/EU/IMG-0508.jpeg",
+    "Politik & Wirtschaft/H2/EU",
+    "Politik & Wirtschaft/H2/EU/IMG-0509.jpeg",
+    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/IMG-0473.jpeg",
+    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/IMG-0462.jpeg",
+    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/Friedman/IMG-0448.jpeg",
+    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien",
+    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/Friedman",
+    "Politik & Wirtschaft/📈Inhalt.md",
+    "Politik & Wirtschaft/H1/Unbenannt.md",
+    "Mathematik/🧮Inhalt.md",
+    "Kunst/🎨Inhalt.md",
+    "Informatik/💾Inhalt.md",
+    "Geschichte/🗿Inhalt.md",
+    "Geschichte/H2/📝Aufträge/Präsidialkabinette.md",
+    "Geschichte/H2/Unbenannt.md",
+    "Englisch/🗽Inhalt.md",
+    "Deutsch/📖Inhalt.md",
+    "Biologie/🧬Inhalt.md",
+    "Deutsch/H2/📝Aufträge/Ein Schritt in die Zukunft.md",
     "Englisch/H2/British Empire/Bubonic plague 2.md",
     "Englisch/H2/British Empire/Bubonic plague.md",
-    "Englisch/H2/British Empire/17090221987657742736936502604016.jpg",
-    "Englisch/H2/British Empire",
-    "Biologie/H1/01-Das-Lac-Operon.pdf",
-    "Deutsch/H2/Rhetorik/Tafel-08-05-24.pdf",
-    "Deutsch/H2/Heimsuchung",
-    "Deutsch/H2/Rhetorik/IMG-6455.jpeg",
-    "Deutsch/H2/Rhetorik/IMG-6457.jpeg",
-    "Deutsch/H2/Rhetorik/IMG-6456.jpeg",
-    "Deutsch/H2/Rhetorik/Tafel-20-03-24.pdf",
-    "Deutsch/H2/Woyzeck/Tafel-14-03-24.pdf",
-    "Deutsch/H2/Woyzeck/Tafel-21-02-24.pdf",
-    "Deutsch/H2/Woyzeck/Tafel-08-02-24.pdf",
-    "Deutsch/H2/Rhetorik/IMG-6389.jpeg",
-    "Deutsch/H2/Rhetorik/IMG-6391.jpeg",
     "Biologie/H2/Klausur 2.canvas",
     "Biologie/H2/Stoffwechsel/Zellatmung.md",
     "Biologie/H2/Unbenannt.md",
     "[la25-abiturerlass.pdf.md",
-    "Pasted image 20240402135533.png",
-    "Pasted image 20240502174756.png",
     "[einfluss l.md",
     "Biologie/Fotosynthese Lernzettel.md",
-    "Deutsch/H2/Aufträge/Ein Schritt in die Zukunft.md",
-    "Deutsch/H2/Aufträge/Konzeptpapier.md",
-    "Deutsch/H2/Aufträge/Rede.md",
-    "Deutsch/Aufträge H2.md",
-    "Informatik/Aufträge H2/EVA - SQL.md",
-    "Informatik/Aufträge H2/NEXT.JS.md",
-    "Informatik/Aufträge H2/SQL Lernzettel.md",
-    "PoWi/Spionage.md",
-    "Geschichte/Präsidialkabinette.md",
-    "Welcome.md",
-    "Religion/Unbenannt.md",
-    "create a link.md"
+    "Deutsch/H2/📝Aufträge/Konzeptpapier.md",
+    "Deutsch/H2/📝Aufträge/Rede.md"
   ]
 }
