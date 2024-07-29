@@ -13,11 +13,34 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sport/H1/ℹ️Historie.pdf"
+                "file": "la25-abiturerlass.pdf"
+              }
+            }
+          },
+          {
+            "id": "7c0314a309c9b4ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "la25-abiturerlass.pdf"
+              }
+            }
+          },
+          {
+            "id": "16f1cb3b8a72fe30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lebenslauf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sport/H1/ℹ️Historie.pdf",
+                "file": "Lebenslauf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sport/H1/ℹ️Historie.pdf",
+                "file": "Lebenslauf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sport/H1/ℹ️Historie.pdf"
+                "file": "Lebenslauf.md"
               }
             }
           }
@@ -144,32 +167,37 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "75c9c08786baff29",
+  "active": "16f1cb3b8a72fe30",
   "lastOpenFiles": [
+    "la25-abiturerlass.pdf",
+    "Lebenslauf.md",
+    "Biologie/🧬Inhalt.md",
+    "Klausurplan-Q2.pdf",
+    "2024-07-05.md",
+    "Belegverpflichtung.pdf",
+    "Biologie/H2/Stoffwechsel/Fotosynthese/01-Einfluss-Faktoren.pdf",
+    "Deutsch/H2/Heimsuchung/Heimatgedanke des Architekten.md",
+    "Deutsch/H2/Heimsuchung/Tafel-22-05-24.pdf",
+    "Deutsch/H2/Heimsuchung/Tafel-29-05-24.pdf",
+    "Deutsch/H2/Heimsuchung/Tafel-23-05-24.pdf",
+    "Deutsch/H2/Heimsuchung/AB-Heimat-Heimatverlust.pdf",
+    "Deutsch/H2/Heimsuchung/AB-Interview-Heimat-Kopie.pdf",
+    "Biologie/H2/Stoffwechsel/Fotosynthese/02-Fotopigmente.pdf",
+    "Biologie/H2/Stoffwechsel/Zellatmung.md",
     "Sport/🏈Inhalt.md",
-    "Sport/H1/ℹ️Historie.pdf",
-    "Sport/H1",
-    "Sport/Neuer Ordner",
     "Religion/⛪Inhalt.md",
     "Sport/H2/IMG-0420.png",
     "Sport/H2/IMG-0419.png",
     "Religion/H2/Die Frage nach Gott.md",
     "Politik & Wirtschaft/H2/📝Aufträge/Spionage.md",
-    "Religion/H1/ℹ️Historie.pdf",
-    "Politik & Wirtschaft/H2/📝Aufträge",
     "Politik & Wirtschaft/H2/EU/Wissel-Leonie-Sara-Powi-70--2.jpg",
-    "Politik & Wirtschaft/H1/ℹ️Historie.pdf",
-    "Politik & Wirtschaft/H2/EU/Kleberger-Finn-Henrik-PoWi-Handout.pdf",
     "Politik & Wirtschaft/H2/EU/Garip-Frida-Lia-Lucia-IMG-1428.jpeg",
     "Politik & Wirtschaft/H2/EU/Brunetti-Fabrizio-927FC72D-C964-43F9-8543-1A9A0EDEDB78.jpeg",
     "Politik & Wirtschaft/H2/EU/IMG-0508.jpeg",
-    "Politik & Wirtschaft/H2/EU",
     "Politik & Wirtschaft/H2/EU/IMG-0509.jpeg",
     "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/IMG-0473.jpeg",
     "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/IMG-0462.jpeg",
     "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/Friedman/IMG-0448.jpeg",
-    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien",
-    "Politik & Wirtschaft/H2/Konjunktur/Wirtschaftstheorien/Friedman",
     "Politik & Wirtschaft/📈Inhalt.md",
     "Politik & Wirtschaft/H1/Unbenannt.md",
     "Mathematik/🧮Inhalt.md",
@@ -180,17 +208,12 @@
     "Geschichte/H2/Unbenannt.md",
     "Englisch/🗽Inhalt.md",
     "Deutsch/📖Inhalt.md",
-    "Biologie/🧬Inhalt.md",
     "Deutsch/H2/📝Aufträge/Ein Schritt in die Zukunft.md",
     "Englisch/H2/British Empire/Bubonic plague 2.md",
     "Englisch/H2/British Empire/Bubonic plague.md",
     "Biologie/H2/Klausur 2.canvas",
-    "Biologie/H2/Stoffwechsel/Zellatmung.md",
     "Biologie/H2/Unbenannt.md",
     "[la25-abiturerlass.pdf.md",
-    "[einfluss l.md",
-    "Biologie/Fotosynthese Lernzettel.md",
-    "Deutsch/H2/📝Aufträge/Konzeptpapier.md",
-    "Deutsch/H2/📝Aufträge/Rede.md"
+    "[einfluss l.md"
   ]
 }
